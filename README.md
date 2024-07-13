@@ -1,4 +1,13 @@
 # GPU Puzzles
+
+```
+python3 ... myenv
+source ... myenv/activate
+pip install jupyter
+jupyter notebook
+# go to the GPU_puzzlers.ipynb
+```
+
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
